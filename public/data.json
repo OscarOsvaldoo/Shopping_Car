@@ -1,0 +1,34 @@
+[
+      {
+        "id": 1,
+        "nombre": "Camisa",
+        "precio": 25.99,
+        "imagen": "https://images.pexels.com/photos/4530870/pexels-photo-4530870.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 2,
+        "nombre": "Jeans ajustados",
+        "precio": 39.99,
+        "imagen": "https://images.pexels.com/photos/52518/jeans-pants-blue-shop-52518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 3,
+        "nombre": "Lentes",
+        "precio": 99.99,
+        "imagen": "https://images.pexels.com/photos/5766609/pexels-photo-5766609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 4,
+        "nombre": "Sueter",
+        "precio": 29.99,
+        "imagen": "https://images.pexels.com/photos/6347536/pexels-photo-6347536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 5,
+        "nombre": "Sombreros",
+        "precio": 19.99,
+        "imagen": "https://images.pexels.com/photos/5698912/pexels-photo-5698912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      }
+    ]
+
+  
